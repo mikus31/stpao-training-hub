@@ -1,6 +1,7 @@
 ---
 layout: page
 title: GIS Curriculum
+permalink: /curriculum/gis/
 ---
 
 ## Beginner

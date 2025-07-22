@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Suggested Courses
+permalink: /suggested-resources/courses/
 ---
 
 ## GIS

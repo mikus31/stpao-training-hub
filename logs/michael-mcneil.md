@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Michael McNeil's Learning Log
+permalink: /logs/michael-mcneil/
 ---
 
 | Date       | Training Title                | Type      | Hours | Notes                           |
