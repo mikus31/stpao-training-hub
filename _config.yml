@@ -2,8 +2,4 @@ title: Employee Training Hub
 description: Track employee learning, share training resources, and explore role-based curriculum.
 baseurl: ""
 url: "https://your-username.github.io"
-theme: minima
-markdown: kramdown
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
+theme: null

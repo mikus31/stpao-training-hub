@@ -1,18 +1,14 @@
-# Employee Training Hub
+# Employee Training Hub (HTML version)
 
-This repository contains:
+This repository is an HTML-based Jekyll site built for:
 - Employee learning logs
 - Training curricula by discipline
 - Suggested training resources
 
 ## How to Use
-1. Clone the repo or fork it to your user/org
-2. Edit your log file in `/logs`
-3. Browse or update `/curriculum` or `/suggested-resources`
+- Edit content in `.html` files inside folders like `/logs`, `/curriculum`, and `/suggested-resources`
+- Use GitHub Pages to preview the site
+- Customize `default.html` layout in `_layouts/` for global changes
 
 ## GitHub Pages
-This repo is GitHub Pages enabled. Access the shared training portal at:
-`https://<your-org>.github.io/training-hub`
-
-## Contributions
-Pull requests welcome! Use `/logs/michael-mcneil.md` as a starting point.
+Hosted automatically via GitHub Pages using HTML and Liquid templating.
